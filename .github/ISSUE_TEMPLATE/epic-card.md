@@ -34,3 +34,7 @@ assignees: ''
 (use scenarios or explicitly describe how the system should behave)*
 
 ## Documentation
+
+## TO DO
+
+[ ] Schedule a call to present the development plan
