@@ -37,4 +37,5 @@ assignees: ''
 
 ## TO DO
 
+[ ] Break down this epic into smaller sub-epics
 [ ] Schedule a call to present the development plan
